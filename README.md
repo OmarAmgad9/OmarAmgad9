@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Omar-Amgad
 
 <h1 align="center">Hi 👋, I'm Omar Amgad</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate Full Stack developer from Egypt</h3>
 <img src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" width="400" alt="reload">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaramgad9&label=Profile%20views&color=0e75b6&style=flat"
